@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(245,245,220);
+  }
+  
+  th{
+    font-family: 'Exo';
+    font-weight:600;
+    letter-spacing:1px;
+  }
+  
+  
+  .code{
+    font-family:monospace, serif;
+    background-color:lightgreen;
+    
+  }
+  
+  
